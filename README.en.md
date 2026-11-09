@@ -16,7 +16,7 @@ My undergraduate thesis investigates whether neural networks can replace special
 
 ### [SkyBrief](https://github.com/ChristianGonper/briefing-meteorologico-aeronautico)
 
-An aeronautical weather demonstration bringing together METAR and TAF reports, maps and route profiles. It combines current reports with clearly separated historical ERA5 reanalysis episodes. It is an academic prototype, not an operational decision-making tool.
+An aeronautical weather application for exploring flight conditions across Europe. It brings together METAR and TAF reports, weather maps and route profiles, with indicators for hazards such as icing and wind shear.
 
 [Explore SkyBrief](https://github.com/ChristianGonper/briefing-meteorologico-aeronautico)
 

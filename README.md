@@ -16,7 +16,7 @@ Mi trabajo de fin de grado estudia si las redes neuronales pueden sustituir cont
 
 ### [SkyBrief](https://github.com/ChristianGonper/briefing-meteorologico-aeronautico)
 
-Demostración de meteorología aeronáutica que reúne partes METAR y TAF, mapas y perfiles de ruta. Distingue los partes actuales de los episodios históricos de reanálisis ERA5. Es un prototipo académico, no una herramienta de decisión operacional.
+Una aplicación de meteorología aeronáutica para explorar las condiciones de vuelo en Europa. Permite consultar y comprender partes METAR y TAF, examinar mapas meteorológicos y analizar una ruta entre aeropuertos mediante perfiles e indicadores de riesgos como el engelamiento o la cizalladura.
 
 [Explorar SkyBrief](https://github.com/ChristianGonper/briefing-meteorologico-aeronautico)
 
